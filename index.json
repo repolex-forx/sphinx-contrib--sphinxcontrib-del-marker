@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "sphinxcontrib-del-marker",
+  "versions": [
+    {
+      "commit": "e9a327e2b93b3f2d0ba8318a2f938868a1a434e3",
+      "tag": "",
+      "parsed_at": "2026-11-06T18:35:42.957159+00:00"
+    }
+  ]
+}
